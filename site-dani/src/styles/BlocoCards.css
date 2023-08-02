@@ -1,0 +1,24 @@
+.bloco-cards {
+    background: #fff;
+    width: 70vw;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bloco-cards h2 {
+    padding: 30px;
+    font-size: 2rem;
+    color: #54585f;
+}
+
+.bloco-cards hr {
+    width: 70%;
+    height: 1px;
+    background-color: #54585f;
+    margin: 0 auto 30px;
+}
+
+.bloco-cards .content {
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,13 @@
+.primeira-dobra div{
+    background-image: url("../assets/casal.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 600px;   
+}
+
+.primeira-dobra img{
+  width: 100vw;
+}
